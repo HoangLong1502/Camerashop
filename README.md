@@ -1,2 +1,2 @@
-# Camerashop
+# Camerashop.github.io
 Camera shop
